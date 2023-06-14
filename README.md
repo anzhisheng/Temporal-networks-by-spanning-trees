@@ -13,8 +13,12 @@ Generate_static_underlying_topology.py: obtain a static underlying topology (sta
 Bursty_activity_pattern.py: obtain a temporal network with a bursty activity pattern.
 
 Poisson_like_activity_pattern.py: obtain a temporal network with a Poisson-like activity pattern.
-    
-    
+
+Paper
+---------
+
+http://arxiv.org/abs/2112.10527
+
 QUESTIONS
 ---------
 
