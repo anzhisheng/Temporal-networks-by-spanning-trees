@@ -8,11 +8,11 @@ This is a Python program designed for the relization of a spanning-tree method f
 FILE
 -----
 
-Generate_static_underlying_topology.py: obtain a static underlying topology (static_adj_mat_origin.npy) and its spanning tree (static_adj_mat_tree.npy).
+--Generate_static_underlying_topology.py: obtain a static underlying topology (static_adj_mat_origin.npy) and its spanning tree (static_adj_mat_tree.npy).
 
-Bursty_activity_pattern.py: obtain a temporal network with a bursty activity pattern.
+--Bursty_activity_pattern.py: obtain a temporal network with a bursty activity pattern.
 
-Poisson_like_activity_pattern.py: obtain a temporal network with a Poisson-like activity pattern.
+--Poisson_like_activity_pattern.py: obtain a temporal network with a Poisson-like activity pattern.
 
 PAPER
 ---------
