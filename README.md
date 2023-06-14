@@ -3,7 +3,7 @@
 DESCRIPTION
 -----------
 
-This is a python program designed for the production of a spanning-tree method for constructing temporal networks. 
+This is a Python program designed for the relization of a spanning-tree method for constructing temporal networks. 
 
 FILE
 -----
