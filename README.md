@@ -14,7 +14,7 @@ Bursty_activity_pattern.py: obtain a temporal network with a bursty activity pat
 
 Poisson_like_activity_pattern.py: obtain a temporal network with a Poisson-like activity pattern.
 
-Paper
+PAPER
 ---------
 
 http://arxiv.org/abs/2112.10527
