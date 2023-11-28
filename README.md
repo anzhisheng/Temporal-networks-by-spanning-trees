@@ -17,7 +17,7 @@ FILE
 PAPER
 ---------
 
-http://arxiv.org/abs/2112.10527
+https://doi.org/10.1038/s41467-023-42868-1
 
 QUESTIONS
 ---------
